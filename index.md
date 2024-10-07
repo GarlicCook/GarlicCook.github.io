@@ -17,6 +17,7 @@ intro:
 
 ## Title
 
-Body
+Minsub Kim
+ComputerScience
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
